@@ -14,6 +14,7 @@
         <module>part-5/chapter-17-javadoc</module>
         <module>part-5/chapter-18-junit</module>
         <module>part-5/chapter-19-ide</module>
+        <module>part-6/chapter-21-spring-boot</module>
     </modules>
 
 </project>
