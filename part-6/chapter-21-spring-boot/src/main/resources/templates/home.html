@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>タスク管理アプリケーション</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    </head>
+    <body>
+        <h1>タスク管理アプリケーション</h1>
+
+        <div class="task_form">
+            <h2>タスクの登録</h2>
+
+            <form action="/add">
+                <label>タスク</label>
+                <input name="task" type="text"/>
+                <label>期限</label>
+                <input name="deadline" type="date"/>
+                <input type="submit" value="登録"/>
+            </form>
+        </div>
+        <div class="tasklist">
+            <h2>現在のタスク一覧</h2>
+            <table border="1" style="border-collapse:collapse;">
+                <thead>
+                    <tr>
+                        <th class="hidden">ID</th>
+                        <th>タスク</th>
+                        <th>期限</th>
+                        <th>状態</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr th:each="task : ${tasklist}">
+                        <td class="hidden" th:text="${task.id}"></td>
+                        <td th:text="${task.task}"></td>
+                        <td width="100px" th:text="${task.deadline}"></td>
+                        <td width="50px" th:text="${task.done} ? '完了' : '未完了'"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
