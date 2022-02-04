@@ -31,7 +31,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr th:each="task : ${tasklist}">
+                    <tr th:each="task : ${taskList}">
                         <td class="hidden" th:text="${task.id}"></td>
                         <td th:text="${task.task}"></td>
                         <td width="100px" th:text="${task.deadline}"></td>

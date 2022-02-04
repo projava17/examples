@@ -26,7 +26,7 @@ public class HomeController {
 
     @GetMapping(value = "/list")
     String listItems(Model model) {
-        model.addAttribute("tasklist", taskItems);
+        model.addAttribute("taskList", taskItems);
         return "home";
     }
 
