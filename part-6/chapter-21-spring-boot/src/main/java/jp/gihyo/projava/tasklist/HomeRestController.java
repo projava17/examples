@@ -15,21 +15,20 @@ import java.util.stream.Collectors;
 public class HomeRestController {
 
     record TaskItem(String id, String task, String deadline, boolean done) {}
-
     private List<TaskItem> taskItems = new ArrayList<>();
 
     @RequestMapping(value = "/resthello")
     String hello() {
         return """
-                Hello,
+                Hello.
                 It works!
                 現在時刻は%sです。
                 """.formatted(LocalDateTime.now());
     }
 
     @GetMapping("/restadd")
-    String adItem(@RequestParam("task") String task,
-                  @RequestParam("deadline") String deadline) {
+    String addItem(@RequestParam("task") String task,
+                   @RequestParam("deadline") String deadline) {
         String id = UUID.randomUUID().toString().substring(0, 8);
         TaskItem item = new TaskItem(id, task, deadline, false);
         taskItems.add(item);
@@ -38,11 +37,10 @@ public class HomeRestController {
     }
 
     @GetMapping("/restlist")
-    String listItems(){
+    String listItems() {
         String result = taskItems.stream()
                 .map(TaskItem::toString)
                 .collect(Collectors.joining(", "));
         return result;
     }
-
 }
