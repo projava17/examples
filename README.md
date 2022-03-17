@@ -76,7 +76,7 @@
 
 [Amazon.co.jp: 山本裕介: 作品一覧、著者略歴](https://www.amazon.co.jp/山本%E3%80%80裕介/e/B0057FTY5K?ref_=dbs_p_pbk_r00_abau_000000)
 
-[yusuke.blog(ぶろぐ)](https://yusuke.blog)
+[yusuke.blog(ブログ)](https://yusuke.blog)
 
 ### 杉山 貴章
 
