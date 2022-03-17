@@ -10,6 +10,9 @@
     <version>1.0</version>
 
     <modules>
+        <module>part-2/chapter-06-swing</module>
+        <module>part-3/chapter-07-condition</module>
+        <module>part-3/chapter-09-loop</module>
         <module>part-5/chapter-16-build-tool</module>
         <module>part-5/chapter-17-javadoc</module>
         <module>part-5/chapter-18-junit</module>
