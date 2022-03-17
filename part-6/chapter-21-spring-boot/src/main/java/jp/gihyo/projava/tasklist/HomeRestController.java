@@ -1,3 +1,10 @@
+/*
+「プロになるJava」サンプル
+https://gihyo.jp/book/2022/978-4-297-12685-8
+
+Takaaki Sugiyama 2022 copyright reserved.
+License: CC0 1.0 Universal
+*/
 package jp.gihyo.projava.tasklist;
 
 import org.springframework.web.bind.annotation.GetMapping;
