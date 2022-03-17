@@ -1,12 +1,10 @@
 # プロになるJava 
 
-技術評論社の書籍、『プロになるJava』掲載コードです。
+技術評論社の書籍、[『プロになるJava ―仕事で必要なプログラミングの知識がゼロから身につく最高の指南書』](https://gihyo.jp/book/2022/978-4-297-12685-8) 掲載コードです。
 
 ハッシュタグ [&#35;projava](https://twitter.com/search?q=%23projava&src=typed_query&f=live)
 
 [![@projava17](https://img.shields.io/twitter/url/https/twitter.com/projava17.svg?style=social&label=プロになるJava%20%40projava17)](https://twitter.com/projava17)
-
-[プロになるJava ―仕事で必要なプログラミングの知識がゼロから身につく最高の指南書](https://gihyo.jp/book/2022/978-4-297-12685-8)
 
 ## 掲載コード
 
