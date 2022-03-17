@@ -12,6 +12,8 @@
 
 [3部 7章 条件分岐](./part-3/chapter-07-condition)
 
+[3部 8章 データ構造](./part-3/chapter-08-datastructure)
+
 [3部 9章 繰り返し](./part-3/chapter-09-loop)
 
 [5部 16章 ビルドツールとMaven](./part-5/chapter-16-build-tool)
