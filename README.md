@@ -22,7 +22,9 @@
 
 [5部 19章 IntelliJ IDEAを使いこなす](./part-5/chapter-19-ide)
 
-[6部 21章 バージョン管理とGit](./part-6/chapter-21-spring-boot)
+[6部 21章 Spring Boot でWeb アプリケーションを作ってみる](./part-6/chapter-21-spring-boot)
+
+[6部 22章 Web アプリケーションにデータベースを組み込む](./part-6/chapter-22-database)
 
 ## 掲載コードのライセンス
 
