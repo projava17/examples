@@ -71,7 +71,7 @@
 
 [Amazon.co.jp: きしだなおき: 作品一覧、著者略歴](https://www.amazon.co.jp/きしだ-なおき/e/B09VPTG6KR?ref_=dbs_p_pbk_r00_abau_000000)
 
-[きしだのHatena(ブログ)](https://nowokay.hatenablog.com)
+[きしだのHatena(ブログ)](https://nowokay.hatenablog.com/archive/category/%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8BJava)
 
 ### 山本 裕介
 [![@yusuke](https://img.shields.io/twitter/url/https/twitter.com/yusuke.svg?style=social&label=山本裕介%20%40yusuke)](https://twitter.com/yusuke)
