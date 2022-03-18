@@ -107,3 +107,5 @@
 ### 杉山 貴章
 
 [![@zinbe](https://img.shields.io/twitter/url/https/twitter.com/zinbe.svg?style=social&label=杉山貴章%20%40zinbe)](https://twitter.com/zinbe)
+
+[我らねぶた馬鹿(ブログ)](https://nebuta.hatenablog.jp)
