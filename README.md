@@ -93,19 +93,21 @@
 
 [![@kis](https://img.shields.io/twitter/url/https/twitter.com/kis.svg?style=social&label=きしだなおき%20%40kis)](https://twitter.com/kis)
 
-[Amazon.co.jp: きしだなおき: 作品一覧、著者略歴](https://www.amazon.co.jp/きしだ-なおき/e/B09VPTG6KR?ref_=dbs_p_pbk_r00_abau_000000)
-
 [きしだのHatena(ブログ)](https://nowokay.hatenablog.com/archive/category/%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8BJava)
+
+[Amazon.co.jp: きしだなおき: 作品一覧、著者略歴](https://www.amazon.co.jp/きしだ-なおき/e/B09VPTG6KR?ref_=dbs_p_pbk_r00_abau_000000)
 
 ### 山本 裕介
 [![@yusuke](https://img.shields.io/twitter/url/https/twitter.com/yusuke.svg?style=social&label=山本裕介%20%40yusuke)](https://twitter.com/yusuke)
 
-[Amazon.co.jp: 山本裕介: 作品一覧、著者略歴](https://www.amazon.co.jp/山本%E3%80%80裕介/e/B0057FTY5K?ref_=dbs_p_pbk_r00_abau_000000)
-
 [yusuke.blog(ブログ)](https://yusuke.blog)
+
+[Amazon.co.jp: 山本裕介: 作品一覧、著者略歴](https://www.amazon.co.jp/山本%E3%80%80裕介/e/B0057FTY5K?ref_=dbs_p_pbk_r00_abau_000000)
 
 ### 杉山 貴章
 
 [![@zinbe](https://img.shields.io/twitter/url/https/twitter.com/zinbe.svg?style=social&label=杉山貴章%20%40zinbe)](https://twitter.com/zinbe)
 
 [我らねぶた馬鹿(ブログ)](https://nebuta.hatenablog.jp)
+
+[Amazon.co.jp: 杉山 貴章: 作品一覧、著者略歴](https://www.amazon.co.jp/杉山-貴章/e/B09VS53R5Q?ref_=dbs_p_pbk_r00_abau_000000)
