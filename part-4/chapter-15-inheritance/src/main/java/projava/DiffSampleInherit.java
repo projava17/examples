@@ -35,16 +35,21 @@ public class DiffSampleInherit {
     }
 
     static BufferedImage lineImage() {
+        // 初刷では引数に誤りがあり結果が画像のようになりません。
+        // var image = new BufferedImage(600, 400, BufferedImage.TYPE_INT_RGB);
         var image = new BufferedImage(250, 200, BufferedImage.TYPE_INT_RGB);
         var graphics = image.createGraphics();
+        // graphics.drawLine(10, 10, 400, 300);
         graphics.drawLine(10, 10, 220, 180);
         return image;
     }
 
 
     static BufferedImage rectImage() {
+        // var image = new BufferedImage(600, 400, BufferedImage.TYPE_INT_RGB);
         var image = new BufferedImage(250, 200, BufferedImage.TYPE_INT_RGB);
         var graphics = image.createGraphics();
+        // graphics.drawRect(10, 10, 400, 300);
         graphics.drawRect(10, 10, 220, 180);
         return image;
     }
